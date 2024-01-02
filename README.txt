@@ -1,0 +1,1 @@
+This is a repo for materials for TU introduction to programming. If you have any questions, please contact ynutchan@engr.tu.ac.th
