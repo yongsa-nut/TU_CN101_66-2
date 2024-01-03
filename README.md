@@ -22,7 +22,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  6   | 12th Feb  | Backup - Mock Midterm           | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Mock_Midterm.ipynb) | -   |
 |  7   | 19th Feb  | [Midterm Preparation](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Mock_Midterm.ipynb)             | -   | -   |
 |  8   | 26th Feb  | [Functions 1](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                     | -   | -   |
-|  9   | 4th March | [Functions 2](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                     | -   | -   |
+|  9   | 4th March | [Functions 2](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                     | Yes   | -   |
 |  10  | 11th March | [List](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)                | Yes | Yes |
 |  11  | 18th March | [Strings](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)                    | Yes | Yes |
 |  12  | 25th March | Dictionary, File I/O, Class    | -   | -   |
