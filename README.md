@@ -32,8 +32,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  16  | 29th April | Final preparation              | -   | -   |
 
 ## Grading 
-* Midterm 40%
-* Final   40%
+* Midterm 35%
+* Final   45%
 * Exercise 10%
 * Homework 10%
 
