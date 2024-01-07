@@ -26,7 +26,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  10  | 11th March | [List](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)                | Yes | Yes |
 |  11  | 18th March | [Strings](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)                    | Yes | Yes |
 |  12  | 25th March | Dictionary, File I/O, Class    | -   | -   |
-|  13  | 1st April  | Game or AI                     | -   | -   |
+|  13  | 1st April  | Back up - Game or AI                     | -   | -   |
 |  14  | 8th/15th April  | AI                        | -   | -   | 
 |  15  | 22th April | Recap and Mock Final           | Yes | -   |
 |  16  | 29th April | Final preparation              | -   | -   |
