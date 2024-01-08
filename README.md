@@ -15,8 +15,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | Week | Week of  |   Topic   | Exercise | Homework |
 | ---- | -------- | --------- | -------- | -------- |
 |  1   | 8th Jan   | [Introduction to Programming](https://docs.google.com/presentation/d/1XvCoo9jS1WmAQPzL7H-9T-ZJxJoy30GwlczNOu6JbOU/edit?usp=sharing)     | - | - |
-|  2   | 15th Jan  | [Input, Processing, and Output 1](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_1_Introduction_to_Python.ipynb) | - | - | 
-|  3   | 22nd Jan  | [Input, Processing, and Output 2](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_1_Introduction_to_Python.ipynb) | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_2_Exercise.ipynb) | - |
+|  2   | 15th Jan  | [Input, Processing, and Output 1]([https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_1_Introduction_to_Python.ipynb](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)) | - | - | 
+|  3   | 22nd Jan  | [Input, Processing, and Output 2]([https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_1_Introduction_to_Python.ipynb](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)) | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_2_Exercise.ipynb) | - |
 |  4   | 29th Jan  | [Decision Structures and Boolean Logic](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Exercise.ipynb) | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Homework.ipynb) |
 |  5   | 5th Feb   | [Repetition Structurs](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Repitition_Structures.ipynb)            | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Exercise.ipynb) | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Homework.ipynb) |
 |  6   | 12th Feb  | Backup - Mock Midterm           | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Mock_Midterm.ipynb) | -   |
