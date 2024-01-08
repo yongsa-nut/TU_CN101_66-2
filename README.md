@@ -2,9 +2,9 @@
 
 ## Course instruct
 
-Name: Nutchanon Yongsatianchot 
+Name: Nutchanon Yongsatianchot (Nut)
 
-ชื่อ: ณัฐชนน ยงเสถียรโชติ
+ชื่อ: ณัฐชนน ยงเสถียรโชติ (นัด)
 
 email: ynutchan@engr.tu.ac.th
 
