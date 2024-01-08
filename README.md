@@ -8,6 +8,8 @@ Name: Nutchanon Yongsatianchot (Nut)
 
 email: ynutchan@engr.tu.ac.th
 
+my room: วศ. 401
+
 ## Course overview 
 Basic concepts of computer systems, electronic data processing and concepts, system and application software, algorithms, flowcharts, data representation, program design and development methodology, problem solving using high-level language programming. 
 
