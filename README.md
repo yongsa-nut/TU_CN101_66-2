@@ -24,11 +24,11 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  6   | 12th Feb  | Practice           | [Yes](https://github.com/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Practice.ipynb) | -   |
 |  7   | 19th Feb  | [Midterm Preparation](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Mock_Midterm.ipynb)             | -   | -   |
 |  8   | 26th Feb  | [Functions 1](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                     | -   | -   |
-|  9   | 4th March | [Functions 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                     | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise.ipynb)   | -   |
-|  10  | 11th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)                | Yes | Yes |
-|  11  | 18th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)                    | Yes | Yes |
-|  12  | 25th March | Dictionary, File I/O, Class    | -   | -   |
-|  13  | 1st April  | Back up - Game or AI                     | -   | -   |
+|  9   | 4th March | Midterm     |  -  | -   |
+|  10  | 11th March | [Functions 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                 | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise.ipynb)  | |
+|  11  | 18th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)                     | Yes | Yes |
+|  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)    | Yes   | Yes   |
+|  13  | 1st April  | Dictionary, File I/O, Class                     | -   | -   |
 |  14  | 8th/15th April  | AI                        | -   | -   | 
 |  15  | 22th April | Recap and Mock Final           | Yes | -   |
 |  16  | 29th April | Final preparation              | -   | -   |
