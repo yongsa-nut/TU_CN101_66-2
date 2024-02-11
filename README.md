@@ -29,8 +29,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  11  | 18th March | [Functions 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                 | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise.ipynb) | - |
 |  12  | 25th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)      | Yes   | Yes   |
 |  13  | 1st April  | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)    | Yes   | Yes   |
-|  14  | 8th/15th April  | Extra (Dictionary and Class) + AI  | -   | -   | 
-|  15  | 22th April | Recap and Mock Final           | Yes | -   |
+|  14  | 8th/15th April  | Recap and Mock Final  | Yes   | -   | 
+|  15  | 22th April | Extra (Dictionary and Class) + AI   | - | -   |
 |  16  | 29th April | Final preparation              | -   | -   |
 
 ## Grading 
