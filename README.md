@@ -22,15 +22,15 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  4   | 29th Jan  | [Decision Structures and Boolean Logic](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb) | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Exercise.ipynb), [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Exercise_sol.ipynb) | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Homework.ipynb) |
 |  5   | 5th Feb   | Decision Structures Practice + [Repetition Structurs](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Repitition_Structures.ipynb)            | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_3_Practice.ipynb) | - |
 |  6   | 12th Feb  | [Repetition Structurs](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Repitition_Structures.ipynb) + Function | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Exercise.ipynb) |  [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_4_Homework.ipynb)  |
-|  7   | 19th Feb  | Midterm Preparation 1             | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Midterm_Practice.ipynb)  | -   |
-|  8   | 26th Feb  | [Midterm Preparation 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Mock_Midterm.ipynb)                   | -   | -   |
-|  9   | 4th March | Midterm (March 4th, 9 - 11 AM.)    |  -  | -   |
-|  10  | 11th March | [Functions 1](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                 | -  | - |
-|  11  | 18th March | [Functions 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                 | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise.ipynb) | - |
-|  12  | 25th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)      | Yes   | Yes   |
-|  13  | 1st April  | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)    | Yes   | Yes   |
-|  14  | 8th/15th April  | Recap and Mock Final  | Yes   | -   | 
-|  15  | 22th April | Extra (Dictionary and Class) + AI   | - | -   |
+|  7   | 19th Feb  | Midterm Preparation            | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Midterm_Practice.ipynb)  | -   |
+|  8   | 26th Feb  | Midterm (March 4th, 9 - 11 AM.)     | [Extra](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Mock_Midterm.ipynb)   | -   |
+|  9   | 4th March | [Functions 1](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)     |  -  | -   |
+|  10  | 11th March | [Functions 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                 | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise.ipynb)   | - |
+|  11  | 18th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)  | Yes | Yes |
+|  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | Yes  | Yes   |
+|  13  | 1st April  | Recap + Practice     | Yes   | -  |
+|  14  | 8th/15th April  | Extra (Dictionary, File I/O, and Class) + Practice  | Yes   | -   | 
+|  15  | 22th April | AI and Chill   | - | -   |
 |  16  | 29th April | Final preparation              | -   | -   |
 
 ## Grading 
