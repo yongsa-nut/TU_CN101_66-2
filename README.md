@@ -29,9 +29,9 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  11  | 18th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)  | Yes | Yes |
 |  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | Yes  | Yes   |
 |  13  | 1st April  | Recap + Practice     | Yes   | -  |
-|  14  | 8th/15th April  | Extra (Dictionary, File I/O, and Class) + Practice  | Yes   | -   | 
+|  14  | 8th/15th April  | Extra (Dictionary, File I/O, and Class) + Practice  | -   | -   | 
 |  15  | 22th April | AI and Chill   | - | -   |
-|  16  | 29th April | Final preparation              | -   | -   |
+|  16  | 29th April | Final preparation              | Yes   | -   |
 
 ## Grading 
 * Midterm 35%
