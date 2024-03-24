@@ -27,7 +27,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  9   | 4th March | [Functions 1](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)     |  -  | -   |
 |  10  | 11th March | [Functions 2](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Function.ipynb)                 | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise.ipynb), [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_5_Exercise_Sol.ipynb)   | - |
 |  11  | 18th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)  | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/List_Exercise.ipynb), [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/List_Exercise_Sol.ipynb) | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/List_Homework.ipynb) |
-|  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | Yes  | -  |
+|  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | (Yes)[https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_String_Exercise.ipynb]  | -  |
 |  13  | 1st April  | Recap + Practice     | Yes   | -  |
 |  14  | 8th/15th April  | Distionary + AI  | -   | -   | 
 |  15  | 22th April | Special Practice: The joy of computing   | Yes | -   |
