@@ -30,7 +30,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_String_Exercise.ipynb)  | -  |
 |  13  | 1st April  | Recap + Practice     | Yes   | -  |
 |  14  | 8th/15th April  | Distionary + AI  | -   | -   | 
-|  15  | 22th April | Special Practice: The joy of computing   | Yes | -   |
+|  15  | 22th April | Special Programming Practice   | Yes | -   |
 |  16  | 29th April | Final preparation              | Yes   | -   |
 
 ## Grading 
