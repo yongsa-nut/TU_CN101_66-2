@@ -29,7 +29,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  11  | 18th March | [List](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_6_List_and_Tuple.ipynb)  | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/List_Exercise.ipynb), [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/List_Exercise_Sol.ipynb) | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/List_Homework.ipynb) |
 |  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_String_Exercise.ipynb)  | -  |
 |  13  | 1st April  | Recap + Practice     | Yes   | -  |
-|  14  | 8th/15th April  | Distionary + AI  | -   | -   | 
+|  14  | 8th/15th April  | Dictionary + AI  | -   | -   | 
 |  15  | 22th April | Special Programming Practice   | Yes | -   |
 |  16  | 29th April | Final preparation              | Yes   | -   |
 
