@@ -30,7 +30,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |  12  | 25th March | [Strings](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_Strings.ipynb)      | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_String_Exercise.ipynb) , [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Chapter_7_String_Exercise_(Sol).ipynb) | -  |
 |  13  | 1st April  | Recap + Practice     | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Recap_Practice.ipynb), [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Recap_Practice_(Sol).ipynb)   | -  |
 |  14  | 8th/15th April  | (Optional) [AI (slide)](https://docs.google.com/presentation/d/1_dN6MpRVKDAlKMjcllQUPePWkti4LQ0xQ2augxbCL8k/edit?usp=sharing), [Colab](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Introduction_to_AI.ipynb)  | -   | -   | 
-|  15  | 22th April | Programming Practice   | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Programming_Practice.ipynb) | -   |
+|  15  | 22th April | Programming Practice   | [Yes](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Programming_Practice.ipynb) [Sol](https://colab.research.google.com/github/yongsa-nut/TU_Intro_Prog/blob/main/Programming_Practice_(Sol).ipynb)| -   |
 |  16  | 29th April | Final preparation              | Yes   | -   |
 
 ## Grading 
