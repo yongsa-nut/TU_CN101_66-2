@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ESP32 CAM WebSocket</title>
+</head>
+<body>
+  <h1>ESP32 CAM WebSocket Communication</h1>
+  <div>
+    <p>
+      <label for="websiteInput">Enter your Arduino's local IP Address:</label>
+      <input type="text" id="websiteInput" placeholder="e.g., 192.168.145.31">
+    </p>
+  </div>
+  <div>
+    <p>
+      <label for="teachableInput">Enter your Teachable Machine's model URL :</label>
+      <input type="text" id="teachableInput" placeholder="e.g., https://teachablemachine.withgoogle.com/models/-1iq56q4N/", size="60">
+    </p>
+  </div>
+  <div id="connection"></div>
+  <div id="model-status"></div>
+  <button id = "start-button" type="button" onclick="init()">Start</button>
+  <div id="label-container" style="margin-top: 10px"></div>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+  <script>
+
+  //How often to request the image from ESP32-cam
+  const captureDelay = 1000;
+  // Create an image element
+  const img = document.createElement('img');
+  const download_div = document.getElementById("model-status");
+  
+  // --- Create a new WebSocket connection --- //
+  let socket;
+  const captureMsg = "capture";  
+
+  function connectWebSocket(){
+    //Create and connect to the server
+    const websiteInput = document.getElementById("websiteInput");
+    socket = new WebSocket("ws://" + websiteInput.value + ":81");
+
+    // Connection opened
+    socket.addEventListener('open', function (event) {
+      const connection_text = document.getElementById("connection");
+      connection_text.innerHTML = "<p>WebSocket connection successfully established.</p>";
+    });
+
+    // Connection Failed
+    socket.addEventListener('error', function (event) {
+      const connection_text = document.getElementById("connection");
+      connection_text.innerHTML = "<p style='color:red;'>WebSocket connection failed. Please check the website address and try again.</p>";
+    });
+
+    // Listen for messages from the ESP32 CAM
+    socket.addEventListener('message', async function (event) {
+      if (event.data instanceof Blob) {
+        const url = URL.createObjectURL(event.data);
+        img.src = url;
+        document.body.appendChild(img);
+        img.onload = async () => {
+          await predict(img);
+        };
+      }
+    });
+  }
+
+  // Function to send the "capture" message
+  function sendCaptureMessage() {
+    if (socket.readyState === WebSocket.OPEN) {
+      socket.send(captureMsg);
+    }
+  }
+
+  // Start button
+  const button = document.querySelector('#start-button');
+  button.addEventListener('click', function(){
+    download_div.innerHTML = "<p>Downloading the model... Please wait warmly.</p>";
+  });
+  button.addEventListener('click', connectWebSocket);
+
+  // --- modeling side --- //
+  let model, labelContainer, maxPredictions;
+
+  async function init() {
+    const teachableInput = document.getElementById("teachableInput");
+    const modelURL = teachableInput.value + "model.json";
+    const metadataURL = teachableInput.value + "metadata.json";
+    // load the model and metadata
+    // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
+    // or files from your local hard drive
+    // Note: the pose library adds "tmImage" object to your window (window.tmImage)
+
+    model = await tmImage.load(modelURL, metadataURL);
+    maxPredictions = model.getTotalClasses();
+
+    labelContainer = document.getElementById("label-container");
+    for (let i = 0; i < maxPredictions; i++) { // and class labels
+      labelContainer.appendChild(document.createElement("div"));
+    }
+    download_div.innerHTML = "<p>Finished downloading the model.</p>";
+    setInterval(sendCaptureMessage, captureDelay);
+  }
+
+  // run the webcam image through the image model
+  async function predict(img) {
+    // predict can take in an image, video or canvas html element
+    let prediction = await model.predict(img);
+    let predict = prediction[0].className;
+    let maxPredict = prediction[0].probability;
+    for (let i = 0; i < maxPredictions; i++) {
+      const classPrediction = prediction[i].className + ": " + prediction[i].probability.toFixed(2);
+      labelContainer.childNodes[i].innerHTML = classPrediction;
+      //Find max prob
+      if(prediction[i].probability > maxPredict){
+        predict = prediction[i].className;
+        maxPredict = prediction[0].probability;
+      }
+    }
+    console.log("Highest class: "+predict);
+    socket.send(predict);
+  }
+
+  </script>
+</body>
+</html>
